@@ -60,28 +60,13 @@ Quais são as recomendações dos proprietários para tornar a experiência de e
 
 ## Objetivos
 
-Identificar hotéis de cachorros e/ou gatos para tutores
-que necessitem encontrar um lar e cuidador temporário
-para seu animal no seu tempo de ausência, como em
-caso de viagens.
+Identificar hotéis de cachorros e/ou gatos para tutores que necessitem encontrar um lar e cuidador temporário para seu animal no seu tempo de ausência, como em caso de viagens.
 
-Objetivos específicos:
-
-● Identificar hotéis perto das localidades especificadas
-pelos tutores;
-
-● Avaliar a disponibilidade da data no local escolhido
-pelo dono do animal;
-
-● Analisar o espaço e as avaliações feitas por outros
-clientes a respeito do ambiente;
-
-● Esclarecer as dúvidas do dono do pet, a fim de sanar
-qualquer questionamento e deixá-lo seguro de sua
-escolha;
-
-● Criar um espaço de interação entre os hotéis e os
-contratantes de forma rápida e prática.
+* Identificar hotéis perto das localidades especificadas pelos tutores;
+* Avaliar a disponibilidade da data no local escolhido pelo dono do animal;
+* Analisar o espaço e as avaliações feitas por outros clientes a respeito do ambiente;
+* Esclarecer as dúvidas do dono do pet, a fim de sanar qualquer questionamento e deixá-lo seguro de sua escolha;
+* Criar um espaço de interação entre os hotéis e os contratantes de forma rápida e prática.
 
 ## Justificativa
 
