@@ -1,5 +1,9 @@
 ## Personas
 
+Ana tem 28 anos e é uma profissional de marketing em uma empresa internacional. Sua carreira exige que ela viaje pelo menos duas vezes ao mês para participar de reuniões, conferências e eventos em diferentes partes do país e do mundo. Ela tem um adorável labrador chamado Max. Quando Ana viaja, deixa Max em um hotel para cachorros, o qual nem sempre tem disponibilidade e é caro. Quando não há disponibilidade, Max fica sozinho e amigos vão à sua casa para colocar comida e água para ele. Ana gostaria de conhecer outras opções na região, mas precisa de mais informações e avaliações sobre outros locais.
+
+Marcos tem 35 anos, tem um hotel para cachorros em sua cidade, gostaria de encontrar mais clientes em potencial.
+
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
