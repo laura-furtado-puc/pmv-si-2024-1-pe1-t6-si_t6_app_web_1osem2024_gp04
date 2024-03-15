@@ -60,16 +60,6 @@ Quais são as recomendações dos proprietários para tornar a experiência de e
 
 ## Objetivos
 
-O objetivo geral do trabalho se dá na criação de um
-software que tem como princípio auxiliar donos de pets a
-encontrarem conforto para seus animais no momento em
-que eles estiverem ausentes. Dessa forma, o programa
-busca conectar os tutores de cachorros e gatos aos hotéis
-ideais para eles, através da identificação de uma
-hospedaria perto da localidade indicada; verificação da
-disponibilidade da data no local escolhido; análise do
-espaço para a raça do animal e as avaliações de outras
-pessoas que tiveram experiência com o mesmo ambiente.
 Identificar hotéis de cachorros e/ou gatos para tutores
 que necessitem encontrar um lar e cuidador temporário
 para seu animal no seu tempo de ausência, como em
