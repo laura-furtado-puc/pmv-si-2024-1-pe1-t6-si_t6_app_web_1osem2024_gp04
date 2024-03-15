@@ -32,16 +32,16 @@ hospedagem, contribuindo para o bem-estar e a felicidade de toda a família
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Proprietários de animais de estimação muitas vezes enfrentam dificuldades ao tentar encontrar cuidadores locais confiáveis e verificados que ofereçam serviços de hospedagem e cuidados para seus animais durante suas viagens ou ausências prolongadas. A falta de acesso a informações precisas e transparentes sobre os cuidadores disponíveis pode levar a preocupações com a segurança e o bem-estar dos animais de estimação, bem como a experiências insatisfatórias de hospedagem.
+Quais são as principais preocupações dos proprietários ao deixar seus animais de estimação com cuidadores locais?
+Quais são os principais critérios utilizados pelos proprietários na seleção de um serviço de hospedagem para seus animais de estimação?
+Quais aplicativos ou sites os proprietários de animais de estimação utilizam atualmente para encontrar cuidadores locais?
+Qual é o nível de satisfação dos proprietários com esses serviços existentes?
+Quais são os principais aspectos positivos e negativos relatados pelos proprietários em relação aos aplicativos e sites existentes?
+Qual é o nível de confiança dos proprietários em relação à verificação e segurança dos cuidadores locais encontrados através desses aplicativos e sites?
+Quais medidas os proprietários consideram importantes para garantir a segurança de seus animais de estimação ao usar esses serviços?
+Que melhorias os proprietários gostariam de ver nos aplicativos e sites existentes para melhor atender às suas necessidades?
+Quais são as recomendações dos proprietários para tornar a experiência de encontrar cuidadores locais mais segura, transparente e satisfatória?
 
 ## Objetivos
 
