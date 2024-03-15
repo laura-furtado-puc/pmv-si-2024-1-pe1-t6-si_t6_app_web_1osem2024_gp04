@@ -4,19 +4,23 @@ O Brasil é um dos países com o maior número de animais de estimação. Segund
 uma pesquisa realizada pelo censo do IPB, Instituto Pet Brasil, 70% da população 
 brasileira possui um pet em casa ou conhece alguém que tenha, sendo a preferência 
 por cães, seguido por gatos e peixes. 
+
 Com o aumento do número de indivíduos que possuem um animal doméstico, houve 
 também um crescimento na demanda por serviços de hospedagem, visto que muitas 
 famílias quando viajam necessitam de um local seguro e acessível para deixarem os 
 seus animais de estimação.
+
 Entretanto, a oferta por esses serviços não acompanhou a demanda e ainda é muito 
 inferior. Sendo assim, muitos tutores de animais domésticos encontram dificuldades 
 para encontrar opções de hospedagem que sejam acessíveis e atendam as 
 necessidades individuais dos seus pets, como alimentação adequada, cuidados 
 médicos específicos e atividades recreativas. 
+
 Além disso, a carência por informações detalhadas sobre a qualidade das instalações 
 e os serviços fornecidos pelos hotéis prejudica ainda mais a experiência dos tutores, 
 que buscam um ambiente seguro e bem equipado para os seus animais de 
 estimação. 
+
 Sendo assim, resolvemos desenvolver o Pet Match, um site de hotéis para pets com 
 uma rede de pesquisa, comparação e reserva de hospedagem, fornecendo 
 informações detalhadas sobre as instalações e políticas de cada estabelecimento.
@@ -26,21 +30,32 @@ uma área onde os usuários podem fornecer informações básicas e avançadas s
 cada um dos seus animais domésticos, como raça, idade, complicações médicas, 
 alimentação, rotina e exigências, assim como o período em que irão precisar do 
 serviço.
+
 Ao oferecer uma solução inovadora e conveniente, o nosso site visa melhorar a 
 experiência dos tutores e garantir o conforto e a segurança dos animais durante sua 
 hospedagem, contribuindo para o bem-estar e a felicidade de toda a família
 
 ## Problema
 
-Proprietários de animais de estimação muitas vezes enfrentam dificuldades ao tentar encontrar cuidadores locais confiáveis e verificados que ofereçam serviços de hospedagem e cuidados para seus animais durante suas viagens ou ausências prolongadas. A falta de acesso a informações precisas e transparentes sobre os cuidadores disponíveis pode levar a preocupações com a segurança e o bem-estar dos animais de estimação, bem como a experiências insatisfatórias de hospedagem.
+Proprietários de animais de estimação muitas vezes enfrentam dificuldades ao tentar encontrar cuidadores locais confiáveis e verificados que ofereçam serviços de hospedagem e cuidados para seus animais durante suas viagens ou ausências prolongadas. 
+A falta de acesso a informações precisas e transparentes sobre os cuidadores disponíveis pode levar a preocupações com a segurança e o bem-estar dos animais de estimação, bem como a experiências insatisfatórias de hospedagem.
+
 Quais são as principais preocupações dos proprietários ao deixar seus animais de estimação com cuidadores locais?
+
 Quais são os principais critérios utilizados pelos proprietários na seleção de um serviço de hospedagem para seus animais de estimação?
+
 Quais aplicativos ou sites os proprietários de animais de estimação utilizam atualmente para encontrar cuidadores locais?
+
 Qual é o nível de satisfação dos proprietários com esses serviços existentes?
+
 Quais são os principais aspectos positivos e negativos relatados pelos proprietários em relação aos aplicativos e sites existentes?
+
 Qual é o nível de confiança dos proprietários em relação à verificação e segurança dos cuidadores locais encontrados através desses aplicativos e sites?
+
 Quais medidas os proprietários consideram importantes para garantir a segurança de seus animais de estimação ao usar esses serviços?
+
 Que melhorias os proprietários gostariam de ver nos aplicativos e sites existentes para melhor atender às suas necessidades?
+
 Quais são as recomendações dos proprietários para tornar a experiência de encontrar cuidadores locais mais segura, transparente e satisfatória?
 
 ## Objetivos
@@ -59,16 +74,22 @@ Identificar hotéis de cachorros e/ou gatos para tutores
 que necessitem encontrar um lar e cuidador temporário
 para seu animal no seu tempo de ausência, como em
 caso de viagens.
-Objetivos específicos
+
+Objetivos específicos:
+
 ● Identificar hotéis perto das localidades especificadas
 pelos tutores;
+
 ● Avaliar a disponibilidade da data no local escolhido
 pelo dono do animal;
+
 ● Analisar o espaço e as avaliações feitas por outros
 clientes a respeito do ambiente;
+
 ● Esclarecer as dúvidas do dono do pet, a fim de sanar
 qualquer questionamento e deixá-lo seguro de sua
 escolha;
+
 ● Criar um espaço de interação entre os hotéis e os
 contratantes de forma rápida e prática.
 
