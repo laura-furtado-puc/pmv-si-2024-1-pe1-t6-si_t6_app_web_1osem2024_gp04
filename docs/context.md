@@ -45,6 +45,33 @@ Quais são as recomendações dos proprietários para tornar a experiência de e
 
 ## Objetivos
 
+O objetivo geral do trabalho se dá na criação de um
+software que tem como princípio auxiliar donos de pets a
+encontrarem conforto para seus animais no momento em
+que eles estiverem ausentes. Dessa forma, o programa
+busca conectar os tutores de cachorros e gatos aos hotéis
+ideais para eles, através da identificação de uma
+hospedaria perto da localidade indicada; verificação da
+disponibilidade da data no local escolhido; análise do
+espaço para a raça do animal e as avaliações de outras
+pessoas que tiveram experiência com o mesmo ambiente.
+Identificar hotéis de cachorros e/ou gatos para tutores
+que necessitem encontrar um lar e cuidador temporário
+para seu animal no seu tempo de ausência, como em
+caso de viagens.
+Objetivos específicos
+● Identificar hotéis perto das localidades especificadas
+pelos tutores;
+● Avaliar a disponibilidade da data no local escolhido
+pelo dono do animal;
+● Analisar o espaço e as avaliações feitas por outros
+clientes a respeito do ambiente;
+● Esclarecer as dúvidas do dono do pet, a fim de sanar
+qualquer questionamento e deixá-lo seguro de sua
+escolha;
+● Criar um espaço de interação entre os hotéis e os
+contratantes de forma rápida e prática.
+
 ## Justificativa
 
 O Pet Match surge como uma solução para atender à crescente demanda por hospedagem de animais de estimação no Brasil, onde mais de 60% dos lares possuem pets, conforme dados do Instituto Brasileiro de Geografia e Estatística (IBGE). Há uma lacuna entre a oferta e a demanda, com dificuldade em encontrar hospedagens adequadas. O Pet Match oferece uma plataforma de pesquisa, comparação e reserva de hospedagem, garantindo o bem-estar e segurança dos animais. O objetivo é proporcionar tranquilidade aos tutores e conforto aos pets, alinhando-se às necessidades do mercado e promovendo cuidado adequado aos animais.
